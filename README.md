@@ -2,7 +2,7 @@
 
 # Utilizando comandos: 
 
-* Swithc 
+* Switch 
 * boolean 
 * default
 * do while 
